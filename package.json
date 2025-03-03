@@ -18,3 +18,7 @@
     "quick.db": "^9.1.7"
   }
 }
+"scripts": {
+  "start": "node index.js"
+}
+
